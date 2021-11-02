@@ -1,0 +1,7 @@
+.card {
+    margin: 60px auto;
+}
+
+.completed .task-name-input {
+    text-decoration: line-through;
+}
